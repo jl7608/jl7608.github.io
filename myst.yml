@@ -1,4 +1,13 @@
+
+version: 1
+
+project:
+  title: My Computing Portfolio
   toc:
     - file: index.md
     - file: lecture_16_example.ipynb
     - file: project_1.ipynb
+
+site:
+  template: book-theme
+
